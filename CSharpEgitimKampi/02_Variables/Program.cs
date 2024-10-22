@@ -53,6 +53,20 @@ namespace _02_Variables
 
          #endregion
 
+             #region Char Değişkenler
+
+         // string[] chars = { "Ali", "Ercan" };
+
+         //for (int i = 0; i < chars.Length; i++) 
+         // {
+         //    for (int j = 0; j < chars[i].Length; j++) 
+         //    {
+         //       Console.Write(chars[i][j]);
+         //    }
+         // }
+
+         #endregion
+
          #region Klavyeden Veri Girişi
          //string passengerName, passengerSurname,passengerCinsiyet,passengerage;
          //   Console.Write("Yolcu Adı : ");
